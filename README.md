@@ -4,6 +4,22 @@ Battle
 Battle your monster against another!
 
 
+How to use this application:
+----------------------------
+
+Clone the repository.  
+
+Navigate to the project root directory.
+
+Run `bundle install`
+
+To run the application there are a couple of options:  
+`ruby app.rb`
+`shotgun config.rb -p 4567`
+`rackup -p 4567`
+
+Navigate to `http://localhost:4567` in your web browser.
+
 User Stories:
 -------------
 
