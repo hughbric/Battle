@@ -1,5 +1,3 @@
-require 'player'
-
 describe Player do
   let(:david) { Player.new('David') }
   let(:goliath) { Player.new('Goliath') }
